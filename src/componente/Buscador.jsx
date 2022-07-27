@@ -1,8 +1,8 @@
 const Buscador = () => {
     return(
-        <div>
+        <div className="d-flex justify-content-left">
             <h1>Hello World</h1>
-            <p>Hola</p>
+            <p className="p-4">Hola</p>
         </div>
     )
 }
